@@ -1,2 +1,2 @@
-# Bulk_Certificate_for_AAD_AppProxy
+# Bulk Certificate for AAD AppProxy
 大量更新Azure AD Application Proxy的憑證
